@@ -48,6 +48,10 @@ This is for local demonstration only. Set a strong `JWT_SECRET` and replace demo
 
 The local SQLite database is intentionally excluded from Git because it may contain account and booking records. A fresh database is created when the backend starts; run the seed command above to populate sample museum data.
 
-## Conference submission summary
+## Project documents
+
+- [Project report](documents/AURUM_Project_Report_Updated.docx)
+
+Conference submission summary:
 
 ![Conference submission summary](documents/AURUM_Conference_Submission_Summary.jpg)

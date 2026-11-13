@@ -1,0 +1,22 @@
+# Installed dependencies and generated frontend output
+node_modules/
+frontend/dist/
+
+# Local database can contain user and booking records
+backend/museum.db
+backend/museum.db-shm
+backend/museum.db-wal
+
+# Local secrets and machine-specific files
+.env
+.env.*
+!.env.example
+*.local
+.DS_Store
+Thumbs.db
+
+# Redundant project archive
+frontend.zip.zip
+
+# Submission files include screenshots with personal and ticket details
+AURUM_TASK2_SUBMISSION/
